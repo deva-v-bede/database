@@ -55,6 +55,7 @@ ER-модель д.б. представлена в виде ER-диаграмм�
  
 1.2 Реляционная модель:
 
+<img width="771" height="537" alt="Реляционная модель" src="https://github.com/user-attachments/assets/0da4f585-092d-4919-a224-642dba75cd97" />
 
 
 # <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab2
