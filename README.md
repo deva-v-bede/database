@@ -74,25 +74,33 @@ ER-модель д.б. представлена в виде ER-диаграмм�
   
 2.1 [SQL-код создания таблиц]
 
-2.2 Диаграмма БД "Supermarket":
-  
+2.2 Диаграмма БД "TradeRentalManagement":
+  ![diagram-TradeRentalManagement](https://github.com/user-attachments/assets/137a4881-616e-4db5-bf0d-1e17d7ea53dc)
+
 
   
 2.3 Примеры заполненных таблиц:
 </h3>
 <h4>
   
-  1) "Товар":
-  
+  1) "Торговая точка":
+  ![торговая_точка](https://github.com/user-attachments/assets/8b90baae-22c5-4391-a60b-011fa8701f14)
 
 
-  2) "Покупатель":
+  2) "Договор":
+     ![договор](https://github.com/user-attachments/assets/858f37d8-9339-40bb-9103-a0b4db7eaf3e)
+
+
+  3) "Клиент":
+![клиент](https://github.com/user-attachments/assets/c14272c2-3035-442f-9bd4-1859930a7bb5)
+
      
+  4) "Скидка":
 
+![скидка](https://github.com/user-attachments/assets/a95cb2aa-e787-4c5f-834c-38dcd69b37dc)
 
-  3) "Покупка":
-     
- 
+  5) "Платеж":
+![платеж](https://github.com/user-attachments/assets/9d3c01c6-51a3-4069-8ce8-6a033e544cc6)
 
 # <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab3
 [Назад](#content)
